@@ -17,24 +17,28 @@ Unit test execution results are stored in **test_result.md**.
 ## 🚀 Instructions to Run the Project
 
 1️⃣ **Install `uv` (a fast Python package manager) and create virtual environment**  
-bash
+```bash
 pip install uv
-uv venv 
---- 
+uv venv
+```
+---
 
 ## 2️⃣ **Activate the virtual environment
 
 **Windows (PowerShell)**  
-
+```bash
 .venv\Scripts\Activate
+```
 ---
 ## 4️⃣ Install All Dependencies
-
+```bash
 uv add -r requirements.txt
+```
 ---
 ## 5️⃣ Run the Streamlit App
-
+```bash
 streamlit run app.py
+```
 ---
 
 ## 📂 Important Notes

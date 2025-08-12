@@ -1,0 +1,12 @@
+ipykernel
+langchain
+langchain-community
+langchain-google-genai
+langchain-pinecone
+langgraph
+langsmith
+pypdf
+pytest
+requests
+sentence-transformers
+streamlit
